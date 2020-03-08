@@ -1,0 +1,4 @@
+Línea 62: la clase MSWinsockLib.Winsock del control ws02 no era una clase de control cargada.
+Línea 65: el nombre de la propiedad _ExtentX de ws02 no es válido.
+Línea 66: el nombre de la propiedad _ExtentY de ws02 no es válido.
+Línea 67: el nombre de la propiedad _Version de ws02 no es válido.
